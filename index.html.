@@ -1,0 +1,80 @@
+<html>
+<head>
+  <link rel="stylesheet" href="./style.css" type="text/css">
+  <!-- write your hero's name here in the <title> element  -->
+  <title>RUBY ROSE</title>
+</head>
+
+
+<body>
+
+  <div class="container">
+    <div class="jumbotron">
+      <div class="row">
+        <div class="col-xs-12">
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1 class="text-center">Ruby Rose</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2 class="text-center">She is an Australian model, actress, and television prosenter</h2>
+          <div class="thumbnail">
+<img src="https://idolwiki.com/pics/RubyRose/RubyRose.jpg"/>
+      
+            <!-- place and image here; use an image already on the internet -->
+
+            <!-- place a caption under your picture which explains the picture -->
+            <p class="caption text-center">Ruby Rose</p>
+            <div>      </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3 class="text-center">Early life</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Rose was born in Melbourne, the daughter of Katia Langenheim, a 20-year-old single mother and artist, whom she describes as one of her role models. As a young child, she travelled frequently, living in rural Victoria, Tasmania, and Surfers Paradise before finally settling in Melbourne. As a teenager, she attended University High School and Footscray City College.
+            </p>
+          </div>
+          <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+            <!-- Timeline heading; use <h3>  -->
+            <h3 class="text-center">timeline of Ruby Rose</h3>
+            <!-- create a timeline using an unordered list -->
+            <ul>
+              <li><strong>1986:</strong> Ruby Rose was worn on March 20th</li>
+              <li><strong>2003:</strong> apperared on Jimmy kimmel and The Ellen show</li>
+              <li><strong>2005:</strong> she was one of Australian's next top models</li>
+              <li><strong>2009:</strong> Nominated for Favourite Personality - Female award and won it</li>
+              <li><strong>2010:</strong> nominated for Favourite Personality</li>
+              <li><strong>2011:</strong> she was in dish nation</li>
+              <li><strong>2012:</strong> she was in arow</li>
+              <li><strong>2013:</strong> she was in Orange Is the New Black, Mr & Mrs Murder, and Around the Block</li>
+              <li><strong>2014:</strong> she was in the flash</li>
+              <li><strong>2015:</strong> she was nominated for The DailyMail.com Seriously Popular and was in supergirl and dark matter</li>
+              <li><strong>2016:</strong> she won the award Outstanding Performance by an and played in DC's Legends of Tomorrow, Sheep & Wolves, and Resident Evil: The Final Chapter</li>
+              <li><strong>2017:</strong> she played in XXX: Return of Xander Cage, John Wick: Chapter 2, and Pitch Perfect 3</li>
+              <li><strong>2018:</strong> she played in Tourism Australia: Dundee - The Son of a and The Meg</li>
+              <li><strong>2019:</strong> she playing in Batwomen</li>
+
+
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p>"Only you know who you were born to be and you need to be free to be that perosn"                                                           
+                -Ruby Rose</p>
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3>For more information 
+              <a href="https://en.wikipedia.org/wiki/Ruby_Rose" target="_blank">Ruby Rose</a></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="text-center">
+      <hr>
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>written and coded by Ariel H.</p>
+    </footer>
+      </hr>
+  </div>
+</body>
+</html>
